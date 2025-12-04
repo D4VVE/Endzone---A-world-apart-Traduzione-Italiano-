@@ -16,4 +16,4 @@ Per tradurre il gioco seguire questi passi:
 
 3- Avviate il gioco e godetevi la traduzione
 
-E' un progetto a se per il quale non apporterò aggiornamenti.
+E' un progetto amatoriale e la traduzione potrebbe non risultare perfetta, ma potrebbe tornare utile per chi non è molto familiare con l'inglese. Non credo di apportare aggiornamenti in futuro.
