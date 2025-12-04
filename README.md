@@ -17,3 +17,5 @@ Per tradurre il gioco seguire questi passi:
 3- Avviate il gioco e godetevi la traduzione
 
 E' un progetto amatoriale e la traduzione potrebbe non risultare perfetta, ma potrebbe tornare utile per chi non è molto familiare con l'inglese. Non credo di apportare aggiornamenti in futuro.
+
+Per poter tornare alla lingua originale cancellate il file English.json e ripristinate English.json.bak 
