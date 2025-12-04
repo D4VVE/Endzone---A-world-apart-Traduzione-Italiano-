@@ -1,6 +1,6 @@
-########################################################
-TRADUZIONE ITALIANA PER IL GIOCO ENDZONE - A WORLD APART
-########################################################
+########################################################/n
+TRADUZIONE ITALIANA PER IL GIOCO ENDZONE - A WORLD APART/n
+########################################################/n
 La traduzione del gioco è quasi completa, potrebbero mancare alcune frasi ma nel complesso sembra funzionare.
 
 Per tradurre il gioco seguire questi passi:
